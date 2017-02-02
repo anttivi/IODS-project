@@ -5,3 +5,10 @@
 - Describe your work and results clearly. 
 - Assume the reader has an introductory course level understanding of writing and reading R code as well as statistical methods
 - Assume the reader has no previous knowledge of your data or the more advanced methods you are using  
+
+learning2014
+str(learning2014)
+dim(learning2014)
+# Here is data that is a survey about approaches to learning. 
+# and here is a graphical scatter matrix plot from the results
+plot(learning2014)
