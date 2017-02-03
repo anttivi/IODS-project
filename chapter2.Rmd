@@ -27,7 +27,7 @@ str(learning2014)
 dim(learning2014)
 ```
 
-Here is data that is a survey about approaches to learning. 
+Here is data that is a survey about approaches to learning. And above are structure and dimensions of said data.
 
 and here is a graphical scatter matrix plot from the results
 
